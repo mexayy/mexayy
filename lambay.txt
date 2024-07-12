@@ -1,0 +1,12 @@
+<!DOCTYP HTML>
+<HTML>
+	<head>
+		<meta charset="utf-8">
+		<title>jub jubal</title>
+	</head>
+	<body>
+		<h1>mon enfancee </h1>
+		<p>mon education</p>
+		<p>j ai ma currier</P>
+	<body>
+</HTML>
